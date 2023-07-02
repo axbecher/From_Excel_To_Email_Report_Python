@@ -29,14 +29,14 @@ This tool generates a report based on weapon data stored in an Excel file. The r
     </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/tableExcel.png"><img src="screenshots/tableExcel.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+      <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/tableExcel.png"><img src="screenshots/tableExcel.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
       </td>
-    <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/configEditor.png"><img src="screenshots/configEditor.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+    <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/configEditor.png"><img src="screenshots/configEditor.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
       </td>
-      <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/emailReport.png"><img src="screenshots/emailReport.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+      <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/emailReport.png"><img src="screenshots/emailReport.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
       </td>
-      <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/lastUpdateChart.png"><img src="screenshots/lastUpdateChart.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
-      <a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/weaponCategoryCounter.png"><img src="screenshots/weaponCategoryCounter.png" width="300px;" alt="Alexandru Becher"/><br /></a>
+      <td align="center"><a target="_blank" href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/lastUpdateChart.png"><img src="screenshots/lastUpdateChart.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+      <a target="_blank" href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/weaponCategoryCounter.png"><img src="screenshots/weaponCategoryCounter.png" width="300px;" alt="Alexandru Becher"/><br /></a>
       </td>
     </tr>
   </tbody>
