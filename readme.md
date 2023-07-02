@@ -3,6 +3,13 @@
 ## Table of Contents
 
 1. [Overview](#overview)
+2. [Video](#video)
+3. [Screenshots](#screenshots)
+4. [Installation and Usage](#installation--usage)
+5. [Customization](#customization)
+6. [Bash script in order to run this script when Windows Boots up](#bash-script-in-order-to-run-this-script-when-windows-boots-up)
+7. [Contributors](#bash-script-in-order-to-run-this-script-when-windows-boots-up)
+   
 
 ## Overview
 This tool generates a report based on weapon data stored in an Excel file. The report includes various statistics and charts that provide insights into the weapon data. The report is sent as an email attachment with additional images embedded in the email.
@@ -22,14 +29,14 @@ This tool generates a report based on weapon data stored in an Excel file. The r
     </thead>
   <tbody>
     <tr>
-      <td align="center"><a href="https://axbecher.com"><img src="screenshots/tableExcel.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+      <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/tableExcel.png"><img src="screenshots/tableExcel.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
       </td>
-    <td align="center"><a href="https://axbecher.com"><img src="screenshots/configEditor.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+    <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/configEditor.png"><img src="screenshots/configEditor.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
       </td>
-      <td align="center"><a href="https://axbecher.com"><img src="screenshots/emailReport.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+      <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/emailReport.png"><img src="screenshots/emailReport.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
       </td>
-      <td align="center"><a href="https://axbecher.com"><img src="screenshots/lastUpdateChart.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
-      <a href="https://axbecher.com"><img src="screenshots/weaponCategoryCounter.png" width="300px;" alt="Alexandru Becher"/><br /></a>
+      <td align="center"><a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/lastUpdateChart.png"><img src="screenshots/lastUpdateChart.png" width="300px;" alt="Alexandru Becher"/><br /></a><br />
+      <a href="https://raw.githubusercontent.com/axbecher/From_Excel_To_Email_Report_Python/main/screenshots/weaponCategoryCounter.png"><img src="screenshots/weaponCategoryCounter.png" width="300px;" alt="Alexandru Becher"/><br /></a>
       </td>
     </tr>
   </tbody>
